@@ -13,3 +13,5 @@ You have several options to run it:
 Option A: Run from command line/terminal
 bash
 python3 fennec_calculator.py
+
+![Untitled](https://github.com/user-attachments/assets/3b752bcc-32ec-4499-a933-df0482a312a0)
